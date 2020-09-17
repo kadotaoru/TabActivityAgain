@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tab Activity Again</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="text1">Fragment1</string>
+    <string name="text2">Fragment2</string>
+    <string name="tab_name1">ToDo</string>
+    <string name="tab_name2">KPT</string>
+</resources>
